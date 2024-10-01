@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anujkumar
+- 👋 Hi, I’m Anuj Kumar
 - 👀 I’m a data analytics and machine learning enthusiast with a strong background in Python, SQL, and advanced data visualization tools. I specialize in extracting actionable insights from large datasets to drive strategic decision-making.
 - 🌱 I’m currently advancing my skills in Natural Language Processing (NLP), Deep Learning, and Generative AI. Additionally, I’m refining my expertise in using Power BI and Tableau for dynamic, interactive dashboard creation.
 - 💞️ I’m looking to collaborate on:
